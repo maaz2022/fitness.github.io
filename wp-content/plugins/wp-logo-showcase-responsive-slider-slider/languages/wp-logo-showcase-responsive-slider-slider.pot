@@ -1,0 +1,530 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Logo Showcase Responsive Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-12 07:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.4"
+
+#: includes/admin/settings/how-it-work.php:186
+msgid "100% Multi language"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:166
+msgid "15+ predefined template for logo showcase."
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:33
+msgid "15+. In lite version only one design."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:174
+msgid "2 Widgets- Slider and Grid view."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:167
+msgid "3 shortcodes [logoshowcase], [logo_grid] and [logo_filter]"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:23
+msgid ""
+"6 (Grid,  Slider, Center, List, Ticker and Filter ). In lite version only "
+"Slider and Center layout."
+msgstr ""
+
+#: includes/wpls-post-types.php:18
+msgid "Add New"
+msgstr ""
+
+#: includes/wpls-post-types.php:67
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:19
+msgid "Add New Logo Showcase"
+msgstr ""
+
+#: includes/wpls-post-types.php:62
+msgid "All Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:22
+msgid "All Logo Showcase"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:68
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:69
+msgid "Arrange your desired slides with your desired order and display."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:131
+msgid "Boost Design"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:130
+msgid "Boost design and best solution for your website."
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:161
+msgid "Category Shortcode"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:81
+msgid "Check Documentation"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:184
+msgid "Custom CSS option"
+msgstr ""
+
+#: includes/wpls-functions.php:83
+msgid "Design 1"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:30
+msgid "Designs"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:177
+msgid "Display logo showcase categories wise."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:169
+msgid "Display logo showcase in a grid view."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:172
+msgid "Display logo showcase in center mode view"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:171
+msgid "Display logo showcase in slider view"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:170
+msgid "Display logo with filtration."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:175
+msgid "Display Logo with title and description"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:181
+msgid ""
+"Divi Page Builder Native Support.<span class=\"wpos-new-feature\">New</span>"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:87
+msgid ""
+"Do not display the logos & Do not display the logos for particular "
+"categories."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:78
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:168
+msgid "Drag & Drop order change"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:66
+msgid "Drag & Drop Slide Order Change"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display Logo Showcase Responsive Slider on your website. "
+"Also added Gutenberg block support."
+msgstr ""
+
+#: includes/wpls-post-types.php:65
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:20
+msgid "Edit Logo Showcase"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:60
+msgid "Enable tooltip on logo."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:149
+#, php-format
+msgid ""
+"Enjoyed this plugin? You can help by rate this plugin <a href=\"%s\" "
+"target=\"_blank\">5 stars!"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:50
+msgid ""
+"Enter external URL of logo. If you don not want to use an image from your "
+"media gallery, you can set an URL for logo image here."
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:28
+msgid "Enter link url for logo. i.e https://www.essentialplugin.com/"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:39
+msgid "Enter logo description using default wordpress content editor."
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:84
+msgid "Exclude Logos and Exclude Some Categories"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:185
+msgid "Fully responsive"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:182
+msgid ""
+"Fusion Page Builder (Avada) native support. <span class=\"wpos-new-feature\">"
+"New</span>"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:188
+msgid ""
+"Gain access to <strong>Logo Showcase Responsive Slider</strong> included in "
+"<br /><strong>Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:42
+msgid "Getting Started with Logo Showcase"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:189
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:78
+msgid ""
+"Gutenberg Block, Elementor, Bevear Builder, SiteOrigin, Divi, Visual "
+"Composer and Fusion Page Builder Support"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:94
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:180
+msgid ""
+"Gutenberg, Elementor, Beaver and SiteOrigin Page Builder Support. <span "
+"class=\"wpos-new-feature\">New</span>"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:145
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:102
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:103
+#: includes/admin/settings/how-it-work.php:24
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:34
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:103
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:56
+msgid "How Shortcode Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.essentialplugin.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.essentialplugin.com/wordpress-plugin/wp-logo-showcase-responsive-"
+"slider/"
+msgstr ""
+
+#: logo-showcase.php:171
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:20
+msgid "Layouts"
+msgstr ""
+
+#: includes/wpls-post-types.php:69
+msgid "Logo Category"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:34
+msgid "Logo Description"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:46
+msgid "Logo Image URL"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:24
+msgid "Logo Link"
+msgstr ""
+
+#: includes/wpls-post-types.php:16 includes/wpls-post-types.php:17
+#: includes/wpls-post-types.php:31
+msgid "Logo Showcase"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Logo Showcase Responsive Slider with "
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:73
+msgid ""
+"Logo Showcase Slider limit -1 to display all logos, by defualt display only "
+"15 logos."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:71
+msgid "Logo Showcase Slider Shortcode"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:72
+msgid "Logo Showcase Slider with center mode Shortcode"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:173
+msgid "Logo Showcase With Ticker Mode"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:183
+msgid ""
+"Logo Showcase with tool-tip with 5 tool-tip theme and various parameters."
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:46
+msgid "More Premium - Settings"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:122
+msgid "Need Support & Solutions?"
+msgstr ""
+
+#: includes/wpls-post-types.php:68
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wpls-post-types.php:21
+msgid "New Logo Showcase"
+msgstr ""
+
+#: includes/wpls-post-types.php:25
+msgid "No Logo Showcase found"
+msgstr ""
+
+#: includes/wpls-post-types.php:26
+msgid "No Logo Showcase found in Trash"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:75
+msgid "Page Builder Support"
+msgstr ""
+
+#: includes/wpls-post-types.php:63
+msgid "Parent Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:64
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:51
+msgid ""
+"Play with all shortcode parameters with preview panel. No documentation "
+"required."
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:34
+#: includes/admin/metabox/wpls-post-setting-metabox.php:46
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:20
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:30
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:39
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:48
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:57
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:66
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:75
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:84
+msgid "PRO"
+msgstr ""
+
+#: includes/wpls-post-types.php:29
+msgid "Remove logo image"
+msgstr ""
+
+#: includes/wpls-post-types.php:61
+msgid "Search Category"
+msgstr ""
+
+#: includes/wpls-post-types.php:24
+msgid "Search Logo Showcase"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:178
+msgid "Set image size for logo among WordPress image size."
+msgstr ""
+
+#: includes/wpls-post-types.php:27 includes/wpls-post-types.php:28
+msgid "Set logo image"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:48
+msgid "Shortcode Generator "
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:176
+msgid "Slider RTL support."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:60
+msgid "Step-1. Create a page like Logoshose OR add the shortcode in any page."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:46
+msgid "Step-1. Go to \"Logo Showcase --> Add New\"."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:106
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:47
+msgid ""
+"Step-2. Add Logo title, logo link to redirect(if need) and logo image under "
+"featured image section."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:61
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:107
+msgid "Step-2. Search \"logoshowcase\" keyword in the gutenberg block list."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:108
+msgid ""
+"Step-3. Add any block of logoshowcase and you will find its relative options "
+"on the right end side."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:48
+msgid ""
+"Step-3. Display multiple logo showcase, create categories under \"Logo "
+"Showcase --> category\" and create categories."
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:49
+msgid ""
+"Step-4. Assign logo showcase post to respective categories and use the "
+"category shortcode under \"Logo Showcase --> category\""
+msgstr ""
+
+#: logo-showcase.php:170
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:57
+msgid "Tooltip"
+msgstr ""
+
+#: includes/wpls-post-types.php:66
+msgid "Update Category"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox.php:40
+#: includes/admin/metabox/wpls-post-setting-metabox.php:51
+#, php-format
+msgid ""
+"Upgrade to <a href=\"%s\" target=\"_blank\">Premium Version</a> to get this "
+"option."
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:14
+#, php-format
+msgid ""
+"Upgrade to <a href=\"%s\" target=\"_blank\">Pro Version</a> with Essential "
+"Plugin Bundle to boost your website design."
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:106
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:106
+msgid "Upgrade to PRO - Logo Showcase Responsive Slider"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:161
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/wpls-post-types.php:23
+msgid "View Logo Showcase"
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:190
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/admin/settings/how-it-work.php:179
+msgid "Visual Composer support."
+msgstr ""
+
+#: includes/admin/class-wpls-admin.php:45
+msgid "WP Logo Showcase Responsive Slider - Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Logo Showcase Responsive Slider and Carousel"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:39
+msgid "WP Templating Features "
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:166
+msgid "WPOS Blocks"
+msgstr ""
+
+#: includes/admin/metabox/wpls-post-setting-metabox-pro.php:42
+msgid "You can modify plugin html/designs in your current theme."
+msgstr ""

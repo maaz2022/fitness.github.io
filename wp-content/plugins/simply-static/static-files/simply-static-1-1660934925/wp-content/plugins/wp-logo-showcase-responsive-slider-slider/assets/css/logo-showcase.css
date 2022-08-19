@@ -1,0 +1,64 @@
+/************************************************************
+				Box Sizing
+************************************************************/
+.wpls-logo-showcase * {-webkit-box-sizing: border-box; -moz-box-sizing: border-box;box-sizing: border-box;}
+
+/************************************************************
+				Clearfix
+************************************************************/
+.wpls-logo-clearfix:before, .wpls-logo-clearfix:after{content: "";display: table;}
+.wpls-logo-clearfix::after{clear: both;}
+.wpls-logo-clearfix{clear: both;}
+
+.wpls-logo-showcase{padding:0 30px 20px 30px !important; margin:0 !important; text-align:center; clear:both;}
+.wpls-logo-showcase.wpls-dots-false{padding:0 30px 0px 30px !important;}
+.wpls-logo-showcase .slick-arrow  {top: 42%;-webkit-transform: translateY(-50%);transform: translateY(-50%);cursor:pointer;}
+.wpls-logo-showcase.wpls-dots-false .slick-arrow  {top: 50%;}
+.wpls-logo-showcase .slick-next{right:0px !important;}
+.wpls-logo-showcase .slick-prev{ left:0px !important}
+.wpls-logo-showcase .slick-dots{left:15px !important; right:15px !important; text-align:center;bottom:-10px !important; position: absolute;   }
+.wpls-logo-showcase .wpls-logo-cnt.slick-slide{margin:0 5px;}
+.wpls-logo-showcase .wpls-fix-box{max-height: 250px;width: 100%;box-sizing: border-box; line-height:0px;}
+.wpls-logo-showcase .wpls-logo-cnt.slick-slide img{display:inline-block !important; border-radius:0px !important; max-height:250px; max-width:100%; box-sizing: border-box; padding:10px; border:1px solid #f1f1f1; box-shadow:none !important }
+.wpls-logo-showcase .slick-slide{  text-align:center !important; display: inline-block !important;   float:none !important;    vertical-align: middle !important;     }
+.wpls-logo-showcase .slick-slide .logo-title{color:#444; padding:10px 0; font-size:16px;}
+.wpls-logo-showcase .slick-arrow{display: none; }
+ 
+.wpls-logo-slider.wpls-center .slick-slide {opacity: 0.5;transform: scale(0.7);transition: all 300ms ease 0s;}
+.wpls-logo-showcase.wpls-center .slick-center{opacity: 1;transform: scale(1);}
+
+.wpls-logo-showcase .slick-prev::before, .wpls-logo-showcase .slick-next::before{display: none !important;}
+.wpls-logo-showcase .wplss-logo-slide::before, .wpls-logo-showcase .wplss-logo-slide::after{display: none !important;}
+.sliderimage_hide_border .wpls-logo-cnt.slick-slide img{padding:0px; border:0px solid #f1f1f1;}
+
+@media screen and (max-width: 641px)
+	{
+.wpls-logo-showcase.wpls-center .slick-slide {opacity: 1;transform: scale(1);transition: all 300ms ease 0s;}
+.wpls-logo-showcase.wpls-center .slick-center{opacity: 1;transform: scale(1);}
+	}
+
+/* Avada CSS */
+.fusion-flex-container.wpls-fusion-flex{ flex-direction: column; }
+
+/* Slider Common CSS Starts */
+.wpls-logo-showcase{visibility: hidden; opacity:0; transition:opacity 0.5s linear; }
+.slick-initialized { visibility: visible; opacity:1; }
+.wpls-logo-showcase button:hover,
+.wpls-logo-showcase button:focus {outline:none !important;}
+.wpls-logo-showcase .slick-arrow {text-indent:-99999px; padding:0px !important; margin:0px !important; border-radius:0px !important}
+.wpls-logo-showcase button.slick-arrow {width: 30px;height: 30px;position: absolute;z-index:9;border: 0px !important;border-radius: 50% !important;color: #fff; cursor:pointer !important; -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;}
+.wpls-logo-showcase button.slick-next, .wpls-logo-showcase button.slick-next:active {background:rgba(0, 0, 0, 0.5) url('https://maaz2022.github.io/fitness.github.io/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/images/arrow-right.png') center center no-repeat !important;background-size: 15px 15px !important; box-shadow:none !important;}
+.wpls-logo-showcase button.slick-prev, .wpls-logo-showcase button.slick-prev:active{background:rgba(0, 0, 0, 0.5) url('https://maaz2022.github.io/fitness.github.io/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/images/arrow-left.png') center center no-repeat !important;background-size: 15px 15px !important;box-shadow:none !important;}
+.wpls-logo-showcase button.slick-next:hover,  .wpls-logo-showcase button.slick-next:focus{background:rgba(0, 0, 0, 0.7) url('https://maaz2022.github.io/fitness.github.io/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/images/arrow-right.png') center center no-repeat !important; background-size: 15px 15px !important;}
+.wpls-logo-showcase button.slick-prev:hover, .wpls-logo-showcase button.slick-prev:focus{background:rgba(0, 0, 0, 0.7) url('https://maaz2022.github.io/fitness.github.io/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/images/arrow-left.png') center center no-repeat !important; background-size: 15px 15px !important;}
+.wpls-logo-showcase .slick-dots {padding:0 !important; margin:0 !important; text-align:center;}
+.wpls-logo-showcase .slick-dots li {list-style:none !important; display:inline-block !important; line-height:0px !important; margin:0 3px !important; padding:0px !important; }
+.wpls-logo-showcase .slick-dots li button {text-indent:-99999px;margin: 0px !important; padding: 0px !important; border: 2px solid #444 !important; border-radius: 50% !important; width: 12px !important; height: 12px !important; background-color:#fff; cursor:pointer;}
+.wpls-logo-showcase .slick-dots li button:focus {outline:none !important}
+.wpls-logo-showcase .slick-dots li.slick-active button {background:#8D8C8C !important;}
+/* Slider Common CSS Ends */
+
+.wpls-logo-showacse-slider-conf{
+    display:none;
+}

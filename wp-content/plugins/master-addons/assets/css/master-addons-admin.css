@@ -1,0 +1,508 @@
+/*
+* Master Addons for Elementor by Jewel Theme < Liton Arefin >
+* All Admin CSS
+* Admin Settings and Welcome Page CSS
+*/
+*,
+::after,
+::before {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.master_addons button,
+.master_addons .button,
+.master_addons_feature a.jltma-get-pro {
+  border: none;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 35px;
+  padding: 0 15px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.master_addons_feature button:hover,
+.master_addons_feature button:focus,
+.master_addons_feature button:active,
+.master_addons_feature button:visited,
+.master-addons-supports-list a:hover,
+.master-addons-supports-list a:focus,
+.master-addons-supports-list a:active,
+.master-addons-supports-list a:visited {
+  border: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  outline: 0;
+}
+
+/* Intro Wrapper */
+.master_addons .wrappper.about-wrap {
+  margin: 20px 20px 15px 0px;
+  max-width: 100%;
+}
+
+.master_addons .intro_wrapper {
+  background-color: #6814cd;
+  display: inline-block;
+  padding: 1.5625rem 10rem 1.5625rem 1.875rem;
+  position: relative;
+  width: 100%;
+}
+
+.master_addons .intro_wrapper header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: relative;
+}
+
+.master_addons .header .ma_el_logo {
+  cursor: pointer;
+  float: left;
+  height: 70px;
+  width: 70px;
+  position: relative;
+}
+
+.toplevel_page_master-addons-settings.svg .wp-badge.welcome__logo {
+  background: url("../icons/white-logo.png") left center no-repeat;
+  background-size: contain;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  color: #fff;
+  cursor: pointer;
+  height: 70px;
+  width: 70px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+
+.master_addons .about-wrap h1 {
+  color: #fff;
+  margin: 0 0 0 15px;
+}
+
+.master_addons .ma_title small {
+  font-size: 14px;
+  font-style: italic;
+}
+
+/* Tabs and Contents */
+.master_addons .wp-tab-bar.master_addons_navbar {
+  margin: 15px 0 0;
+}
+
+.master_addons .master_addons_navbar.wp-tab-bar li {
+  border: none;
+  display: inline-block;
+  line-height: 1;
+  margin: 0 5px 0 0;
+  padding: 0;
+}
+
+.master_addons .master_addons_navbar.wp-tab-bar li a,
+.master_addons .master_addons_navbar.wp-tab-bar a.nav-upgrade-pro {
+  background-color: #f7f7fa;
+  border-top: 4px solid transparent;
+  color: #393c3f;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 0.875rem 1.75rem 1.2rem;
+}
+
+.master_addons .master_addons_navbar.wp-tab-bar li.wp-tab-active a,
+.master_addons .master_addons_navbar.wp-tab-bar li a:hover {
+  background-color: #fff;
+  border-top-color: #6814cd;
+  color: #6814cd;
+}
+
+.master_addons .master_addons_navbar.wp-tab-bar a.nav-upgrade-pro {
+  background-color: #6814cd;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.master_addons .master_addons_navbar.wp-tab-bar li a:focus,
+.master_addons .master_addons_navbar.wp-tab-bar li a:visited,
+.master_addons .master_addons_navbar.wp-tab-bar li a:active,
+.master_addons .master_addons_navbar.wp-tab-bar a.nav-upgrade-pro:focus,
+.master_addons .master_addons_navbar.wp-tab-bar a.nav-upgrade-pro:visited,
+.master_addons .master_addons_navbar.wp-tab-bar a.nav-upgrade-pro:active {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  outline: 0;
+}
+
+/* Tab Contents */
+.master_addons_contents {
+  background-color: #fff;
+  padding: 1.5rem;
+}
+
+.master_addons .wp-tab-panel {
+  border: none;
+  max-height: inherit;
+  padding: 0;
+}
+
+.master_addons_contents .parent {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.master_addons_contents .parent .left_column {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 70%;
+      -ms-flex: 0 0 70%;
+          flex: 0 0 70%;
+  max-width: 70%;
+  padding-right: 15px;
+}
+
+.master_addons_contents .parent .right_column {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 30%;
+      -ms-flex: 0 0 30%;
+          flex: 0 0 30%;
+  max-width: 30%;
+}
+
+.master-addons-supports-list {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+
+.master-addons-supports-list li {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 50%;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+  max-width: 50%;
+  margin: 0;
+  padding: 0 0 15px;
+}
+
+@media (min-width: 768px) {
+  .master-addons-supports-list li:nth-child(odd) {
+    padding-right: 7.5px;
+  }
+
+  .master-addons-supports-list li:nth-child(even) {
+    padding-left: 7.55px;
+  }
+}
+.master-addons-supports-list .addons-supports-list-content {
+  border: 1px solid #efeff5;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 7px 1.25rem;
+}
+
+.master-addons-supports-list a {
+  color: #393c3f;
+  font-size: 14px;
+  font-weight: 600;
+  float: left;
+  padding: 13px 0;
+  text-decoration: none;
+}
+
+.master-addons-supports-list li img {
+  float: right;
+  max-height: 44px;
+  max-width: 100%;
+  width: 35px;
+}
+
+.master-addons-star-review {
+  border: 1px solid #efeff5;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  margin-bottom: 15px;
+  padding: 1.875rem 1.25rem;
+}
+
+.master_addons .review-content-left {
+  max-width: 70px;
+  margin-right: 20px;
+}
+
+.master_addons .review-content-right {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.master_addons .about-wrap img {
+  margin: 0;
+  height: auto;
+  vertical-align: middle;
+}
+
+.master_addons .review-content-right h4 {
+  font-size: 1.125rem;
+  margin: -2px 0 13px;
+}
+
+.master_addons .review-content-right p,
+.master_addons .master-addons-faq-content p {
+  color: #546e7a;
+  font-size: 14px;
+  line-height: 23px;
+  margin: 0 0 1.75rem;
+}
+
+.master_addons_feature button:not(.addons-enable-all, .addons-disable-all),
+.master_addons_feature a.jltma-get-pro {
+  background-image: -moz-linear-gradient(0deg, #df1dc6 0%, #6a14d1 100%);
+  background-image: -webkit-linear-gradient(0deg, #df1dc6 0%, #6a14d1 100%);
+  background-image: -ms-linear-gradient(0deg, #df1dc6 0%, #6a14d1 100%);
+}
+
+.master_addons_feature a.jltma-get-pro:hover {
+  background-image: -moz-linear-gradient(0deg, #6a14d1 0%, #df1dc6 100%);
+  background-image: -webkit-linear-gradient(0deg, #6a14d1 0%, #df1dc6 100%);
+  background-image: -ms-linear-gradient(0deg, #6a14d1 0%, #df1dc6 100%);
+}
+
+/* Faq */
+.master-addons-support-faq {
+  border: 1px solid #efeff5;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 0 1.25rem;
+}
+
+.master-addons-faq-content {
+  border-bottom: 1px solid #efeff5;
+  padding: 1.45rem 0;
+}
+
+.master-addons-faq-content h4 {
+  color: #6814cd;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 10px;
+}
+
+.master_addons .master-addons-faq-content p {
+  margin-bottom: 0;
+}
+
+.master-addons-support-faq button.read-more {
+  margin: 1.875rem 0;
+}
+
+/* Support Sidebar */
+.master-addons-banner {
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  position: relative;
+}
+
+.master-addons-banner-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  left: 0;
+  top: 0;
+  padding: 1.875rem;
+  position: absolute;
+}
+
+.master-addons-banner-content h3 {
+  color: #fff;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  margin: 0 0 30px;
+  text-align: center;
+}
+
+.master-addons-banner-content h3 span {
+  display: block;
+}
+
+.master-addons-banner-content button {
+  background-color: #fff;
+  border: none;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  color: #6814cd;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 45px;
+  padding: 0 1.875rem;
+  text-transform: uppercase;
+}
+
+.master-addons-right-column-widget {
+  border: 1px solid #efeff5;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  margin-top: 15px;
+  padding: 1.25rem;
+}
+
+.master-addons-right-column-widget .icon-image {
+  max-width: 42px;
+}
+
+.master-addons-right-column-widget h4 {
+  color: #393c3f;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 11px 0 8px;
+}
+
+.master_addons .master-addons-right-column-widget p {
+  color: #546e7a;
+  font-size: 14px;
+  line-height: 23px;
+  margin: 0 0 25px;
+}
+
+/* Addons Feature */
+.master_addons_feature.jltma-system-info {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  margin: 0;
+  position: relative;
+}
+
+.master_addons_feature.jltma-system-info h3 {
+  color: #393c3f;
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0.5rem 0 1rem;
+  width: 100%;
+}
+
+/* API Settings */
+.api-settings-element {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 50%;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+  max-width: 50%;
+  padding: 0 7.5px;
+}
+
+.api-settings-element .api-forms {
+  background-color: #fff;
+  border: 1px solid #efeff5;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  font-size: 13px;
+  line-height: 20px;
+  margin-bottom: 2rem;
+}
+
+.master_addons_feature.jltma-system-info table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.api-settings-element .api-forms td {
+  border-bottom: 1px solid #f1f1f3;
+  padding: 7px 15px;
+}
+
+.api-settings-element .api-forms tr:last-child td {
+  border-bottom: 0;
+}
+
+.master_addons_feature.jltma-system-info a {
+  color: #6814cd;
+  text-decoration: none;
+}
+
+.api-settings-element .form-group {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 1.875rem;
+}

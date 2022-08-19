@@ -1,0 +1,97 @@
+/* General CSS */
+.wpls-center{text-align: center;}
+.wpls-pro-tag {padding: 4px 7px 4px 5px;background-color:#cdd9f3;color: #1e2b48; position: relative; font-size: 10px; margin: 0 10px; display: inline-block; line-height: 1.1;}
+.wpls-pro-tag::before { content: ""; left: -10px; top: 0; border-top: 10px solid transparent;border-right: 10px solid #cdd9f3;border-bottom: 10px solid transparent; position: absolute;}
+.wpls-pro-feature { opacity: 0.5;}
+.wpls-pro-feature:hover{opacity: 0.8;}
+.wpos-new-feature{ font-size: 10px; color: #fff; font-weight: bold; background-color: #03aa29; padding:1px 4px; font-style: normal; }
+
+.pro-notice{background-color: #fcecce; border: 1px dashed #f8c057; padding: 3px 10px; font-size:15px;}
+
+#wpls-post-metabox-pro tr.wpls-pro-feature{border-bottom:1px solid #f1f1f1;}
+#wpls-post-metabox-pro tr.wpls-pro-feature th,
+#wpls-post-metabox-pro tr.wpls-pro-feature td{ vertical-align:top; padding:10px; }
+#wpls-post-metabox-pro tr.wpls-pro-feature th:first-child,
+#wpls-post-metabox-pro tr.wpls-pro-feature td:first-child{width:40%; }
+
+/* Builder Shortcode Preview */
+.wpls-builder-shrt-prev{background-color: #e7e7e7; padding: 10px; border: 1px solid #ccc; font-size: 15px;text-align: center;}
+.wpls-builder-shrt-title span{border-bottom: 1px solid #999; display: inline-block; padding: 0 0 5px 0;}
+
+/************** Start - Solutions & Features Page CSS ****************/
+.wpls-sf-center{text-align:center;}
+.logoshowcase_page_wpls-solutions-features #wpwrap { background: #f7faff;}
+.wpls-sf-wrap{max-width: 860px;margin: 0 auto;}
+.wpls-sf-heading{font-size: 28px;font-weight: 700;letter-spacing: -1px;text-align: center;margin-top: 30px; margin-bottom:5px;}
+.wpls-sf-image{margin:25px 0 15px 0;}
+.wpls-sf-cont {color: #000; font-size:15px;}
+.wpls-sf-top-rsn p, .wpls-sf-sf-testimonial-wrap p{color: #000; font-size:15px;}
+.wpls-sf-left{text-align:left;}
+.wpls-sf-feature__text h3{font-size: 22px;font-weight: 700;margin:0;}
+.wpls-sf-solutions-box-grid	{display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;
+flex-direction: column;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}
+.wpls-sf-team{margin-bottom:50px; border-radius: 10px;border: 1px solid #e5ecf6; padding:10px 30px 30px 30px;}
+.wpls-sf-blue{color:#6c63ff; font-weight:bold;}
+.logoshowcase_page_wpls-solutions-features #wpcontent{padding: 0 0 40px; line-height: normal;}
+.wpls-sf-wrap .wpls-sf-inr{padding: 30px 40px 0;}
+.wpls-sf-wrap .wpls-sf-welcome-wrap{ margin-bottom:50px; position: relative;  -webkit-box-sizing: border-box;  box-sizing: border-box;  background: #fff;  padding: 30px;  border-radius: 10px;  border: 1px solid #e5ecf6; }
+.wpls-sf-welcome-wrap{margin-top:30px;}
+
+.wpls-sf-subtitle{color: #6c7781; font-size: 16px; font-weight: 600; margin-bottom: 6px;}
+.wpls-sf-title{font-size: 32px; font-weight: 600; color: #23282d; margin-top: 0; margin-bottom: 20px;}
+.wpls-sf-ttl{font-size: 23px; font-weight: 600; color: #23282d; margin-top: 0; margin-bottom: 20px;}
+.wpls-sf-content{margin: 0 0 20px; font-size: 22px;  color: #646970;}
+.wpls-sf-btn{display: inline-block; font-size: 18px; padding: 10px 25px; border-radius: 100px;  background-color: #46b450; border-color: #46b450; color: #fff !important; font-weight: 600; text-decoration: none;}
+.wpls-sf-btn-orange{ background-color: #FF1000; border-color: #FF1000 ;}
+.wpls-sf-btn:hover,
+.wpls-sf-btn:focus{background-color: #3fa548; border-color: #3fa548;}
+.wpls-sf-btn-orange:hover,
+.wpls-sf-btn-orange:focus {background-color: #D01003 ; border-color: #D01003 ;}
+.wpls-sf-fp-ttl{font-size: 23px; line-height: 1.4em; margin-bottom: 10px; font-weight: 600; text-align: center;}
+.wpls-sf-fp-box-wrp{display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; gap: 10px;}
+.wpls-sf-fp-box-wrp .wpls-sf-fp-box{position: relative; border: 1px solid #c3e6cb; padding: 10px; text-align: center;}
+.wpls-sf-fp-box-wrp .wpls-sf-pro-box{border: 1px solid #f5c6cb;}
+.wpls-sf-fp-box-wrp>*{flex: 0 0 26.8%;}
+.wpls-sf-fp-box-wrp i.dashicons{font-size: 25px; display: inline-block; color: #528bfa; width: 30px; height: 30px; line-height: 30px;}
+.wpls-sf-fp-box-wrp .wpls-sf-box-ttl{font-size: 16px;}
+.wpls-sf-tag{position: absolute; display: inline-block; top: 0; right: 0; background-color: #d4edda; color: #155724; padding: 1px 8px; text-transform: uppercase; font-size: 12px; }
+.wpls-sf-pro-box .wpls-sf-tag{background-color: #f8d7da; color: #721c24;}
+
+.wpls-rc-wrap{max-width: 550px; margin: 15px auto 0 auto; text-align: left;}
+.wpls-rc-wrap .wpls-rc-inr{display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; margin-bottom: 15px;}
+.wpls-rc-wrap .wpls-rc-icon{margin-right: 15px; width: 60px; height: 60px;}
+.wpls-rc-wrap .wpls-rc-icon img{width: 100%; height: 100%;}
+.wpls-rc-wrap .wpls-rc-inr h3{font-size: 16px; margin: 0 0 5px 0;}
+.wpls-rc-wrap .wpls-rc-inr p{margin: 0;}
+.wpls-rc-wrap .wpls-rc-bg-box{ background-color:#f1f1f1; border: 1px solid #d1d1d1; padding: 5px 10px; }
+
+.wpls-solutions-section{margin-bottom: 20px;}
+.wpls-solutions-box-wrap{display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; gap: 15px; margin-top:50px; margin-bottom:10px;}
+.wpls-solutions-box-wrap>*{flex: 1 0 21%;}
+
+.wpls-solutions-box-wrap .wpls-box-ttl{background-color: #cce5ff; color: #004085; font-size: 16px; padding: 10px;}
+.wpls-solutions-box-wrap ul{padding: 0 10px; margin: 0;}
+.wpls-solutions-box-wrap ul li{position: relative; font-size: 14px; border-bottom: 1px solid #e7e7e7; margin: 0; padding: 8px 0;}
+.wpls-solutions-box-wrap ul li:last-child{border-bottom: none;}
+
+.wpls-sf-welcome-wrap{margin-top:30px;}
+.wpls-sf-features-ttl{margin-top:45px; margin-bottom: 15px;}
+.wpls-sf-features-ttl h2{margin-bottom: 5px; color: #155724;}
+.wpls-features-section .wpls-features-section-inr{padding: 15px 30px; margin-bottom:30px; text-align:center;}
+.wpls-features-section ul.wpls-features-box-grid{margin:0px;display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; gap: 15px; list-style: none !important; margin-bottom:15px;}
+ul.wpls-features-box-grid>*{flex: 1 0 30%; text-align:center; font-size:13px; font-weight:bold;}
+ul.wpls-features-box-grid li{border:1px solid #f1f1f1; padding:10px 0;}
+ul.wpls-features-box-grid li img{width:100%;}
+
+.bg-highlight{background:#bde1f9;color:#000;padding: 0 5px; display:inline-block;}
+.wpls-testimonial-section-inr{text-align:center;}
+.wpls-testimonial-box-wrap{margin-bottom:15px;}
+.wpls-testimonial-box-wrap{display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; gap: 15px;}
+.wpls-testimonial-box-wrap>*{flex: 1 0 21%;}
+.wpls-testimonial-box-wrap .wpls-testimonial-box-grid{border: 1px solid #ddd;background:#fff;  box-shadow: 0 3px 2px rgba(0,0,0,.05);
+padding: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;}
+.wpls-testimonial-box-wrap h3{margin-top:0px;}
+.wpls-testimonial-clnt{margin:15px 0 0 0; font-size:16px; font-weight:bold;}
+
+/************** End - Solutions & Features Page CSS ****************/
+
